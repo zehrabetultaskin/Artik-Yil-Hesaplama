@@ -1,4 +1,4 @@
-# Artik-Yil-Hesaplama
+# Artık Yıl Hesaplama
 
 Bu program Java programlama dili kullanılarak oluşturulmuştur. Bu programın amacı, kullanıcı tarafından girilen yılın artık yıl olup olmadığını hesaplamaktır.
 
